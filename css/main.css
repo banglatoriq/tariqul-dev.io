@@ -182,7 +182,10 @@ body {
 
 }
 
-
+#dev-font{
+    width: 18px;
+    height: 16px;
+}
 .my-poto {
     position: relative;
     width: 250px;
