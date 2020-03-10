@@ -85,6 +85,9 @@ body {
 .mobile-menu{
         display: none;
     }
+.mobile-menu-item i{
+    color: white !important;
+}
 .primary-title {
     font-size: 47px;
     letter-spacing: 1px;
