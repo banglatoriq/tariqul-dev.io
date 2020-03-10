@@ -213,7 +213,7 @@ body {
     border-radius: 50%;
     height: 100%;
     width: 100%;
-    border: 10px solid var(--main-bg-color);
+    border: 5px solid var(--main-bg-color);
 }
 
 .my-poto img {
